@@ -1,2 +1,2 @@
 # Digit-Recognizer
-A tensorflow model which recognizes handwritten digits
+A Convolutional Model which recognizes handwritten digits
